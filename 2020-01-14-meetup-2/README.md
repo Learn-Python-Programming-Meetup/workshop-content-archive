@@ -16,6 +16,9 @@ https://www.meetup.com/Learn-Python-Programming/events/267299550/
 
 https://docs.google.com/presentation/d/1sX4dPu9Vn7G2lPCBGNKcm08K_kkEAUNnGxnZhAX1uPg/edit?usp=sharing
 
+### Video Recording Link:
+https://www.youtube.com/watch?v=nn-4077uY7U
+
 ### Sponsor:
 We would like to thank Microsoft NERD Center for Sponsoring Venue.
 
