@@ -1,1 +1,2 @@
-# introduction-to-python-programming
+# Introduction to Python Programming: Hands on Workshop
+
