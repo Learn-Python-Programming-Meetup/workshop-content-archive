@@ -15,7 +15,7 @@ https://www.youtube.com/channel/UCEhg9P5rQrF-6H1nFNsSwhQ
 **Slack**: 
 https://join.slack.com/t/learnpythonboston/shared_invite/zt-cvplmooz-rPBRaXBqh0xuXrGbeCwj~Q
 
-### Past & Present Instructor:
+### Past & Present Instructors:
 
   + [Nishant Gandhi](https://www.linkedin.com/in/nishantgandhi99/)
   + [Alex Shoop](https://www.linkedin.com/in/alexandershoop/)
