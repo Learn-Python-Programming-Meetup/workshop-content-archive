@@ -4,7 +4,7 @@
 https://www.meetup.com/Learn-Python-Programming/events/271032516/
 
 ### Video Recording Link:
-
+https://www.youtube.com/watch?v=RJbcTukY9sE
 
 ### Presentation Slides Link:
 https://docs.google.com/presentation/d/1pdyGjFpaX9bJ0nEVT7ZhTWi5G-P6_8-8aU-PuWF_mig/edit?usp=sharing
