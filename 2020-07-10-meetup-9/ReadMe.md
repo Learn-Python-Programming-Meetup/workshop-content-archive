@@ -1,4 +1,4 @@
-# Learn Restful Microservices in Python (Online)
+# Learn to Build Login/Registration Page using Flask: Hands on Workshop (Online)
 
 ### Meetup Event Listing Page:
 https://www.meetup.com/Learn-Python-Programming/events/271763706/
