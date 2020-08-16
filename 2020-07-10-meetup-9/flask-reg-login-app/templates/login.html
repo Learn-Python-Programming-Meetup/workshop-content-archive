@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+                        {% with messages = get_flashed_messages() %}
+                        {% if messages %}
+
+                        {{ messages[0] }}
+
+                        {% endif %}
+                        {% endwith %}
+<h1>Login</h1>
+<form method="post" action="/login">
+    {{ form.csrf_token }}
+        {{ form.email.label }}
+    {{ form.email }}
+
+    {% for error in form.email.errors %}
+        {{ error }}
+    {% endfor %}
+
+        {{ form.password.label }}
+    {{ form.password }}
+
+    {% for error in form.password.errors %}
+        {{ error }}
+    {% endfor %}
+
+        <input type="submit">
+</form>
+</body>
+</html>
