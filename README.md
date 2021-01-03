@@ -1,18 +1,18 @@
 # Learn Python Programming Meetup Group
 
-Learn Python Programming is boston based meetup group of people interested in python programming. All out meetups are python workshops from beginner to advance level. Open to everyone and free alwyas.
+Learn Python Programming is Boston based meetup group of people interested in python programming. All out meetups are python workshops from beginner to advance level. Open to everyone and free always.
 
-This is our official repository for all workshop notebooks and video recording links. 
+This is our official repository for all workshop notebooks and video recording links.
 
 ### Join & Follow Us at:
 
-**Meetup Page:** 
+**Meetup Page:**
 https://www.meetup.com/Learn-Python-Programming/
 
-**Youtube Channel**: 
+**Youtube Channel**:
 https://www.youtube.com/channel/UCEhg9P5rQrF-6H1nFNsSwhQ
 
-**Slack**: 
+**Slack**:
 https://join.slack.com/t/learnpythonboston/shared_invite/zt-cvplmooz-rPBRaXBqh0xuXrGbeCwj~Q
 
 ### Past & Present Instructors:
@@ -20,10 +20,12 @@ https://join.slack.com/t/learnpythonboston/shared_invite/zt-cvplmooz-rPBRaXBqh0x
   + [Nishant Gandhi](https://www.linkedin.com/in/nishantgandhi99/)
   + [Alex Shoop](https://www.linkedin.com/in/alexandershoop/)
   + [Priyanka Gagneja](https://www.linkedin.com/in/priyanka-gagneja/)
+  + [Ganesh Iyer](https://www.linkedin.com/in/ganeshiyerdotnet/)
 
 
-### Past Sponsors:
+### Past & Present Sponsors:
 
 + DataRobot Inc
 + Microsoft New England Research & Development Center
 + Alyce Inc
++ InterSystems
