@@ -41,7 +41,8 @@ def test_get_all_api():
 @mock.patch('app.service.person.PersonService')
 def test_get_one_api(mock_ps):
     app = create_app()
-    mock_ps.return_value.retrieve_one.return_value = Person(name='wrong', primary_email='ncwk')
+    mock_ps.return_value.retrieve_one.return_value = \
+        Person(name='wrong', primary_email='ncwk')
     with app.test_client() as c:
         rv = c.get('/person/123')
         assert rv.status_code == 200
